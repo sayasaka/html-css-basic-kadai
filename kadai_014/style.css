@@ -1,9 +1,7 @@
-html {
-  font-size: 20px;
-}
 body {
   text-align: center;
   font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
 }
 h1 {
   font-size: 2rem;
@@ -12,11 +10,11 @@ h1 {
   border-bottom: 3px solid rgb(115, 115, 114);
   font-family: "Josefin Sans", sans-serif;
 }
-.basic {
+#basic > p {
   font-weight: bold;
 }
 .skyblue {
-    color: skyblue;
+  color: skyblue;
 }
 .pink {
   color: rgb(255, 192, 203);
