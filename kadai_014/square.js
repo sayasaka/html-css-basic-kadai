@@ -1,5 +1,5 @@
-const num = () => {
-    console.log(10 * 10);
+const addNumber = (num) => {
+    return num ** 2;
 }
 
-num();
+console.log(addNumber(10));
